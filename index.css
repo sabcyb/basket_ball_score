@@ -54,3 +54,7 @@ button{
     color: white;
     font-family: 'Arial', sans-serif;
 }
+
+button:hover{
+    background-color: #c70039;
+}
